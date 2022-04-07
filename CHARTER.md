@@ -1,3 +1,5 @@
 # Performance Analysis SIG 
 
-The RISC-V Performance Analysis SIG The perf-analysis SIG is formed to ensure the development of leading edge end-to-end solutions for profiling and optimizing software running on RISC-V processors.  The SIG will assess the state of the art for hardware monitoring capabilities as well as for profiling and visualization tools.  The SIG will further assess the state of RISC-V enabling for the existing performance monitoring ecosystem, including system software, profiling tools, and compilers.  The SIG will spawn and oversee TGs for any identified gaps.
+The performance analysis SIG is proposed to develop a strategy for, and oversee development of, leading edge end-to-end solutions for profiling and tuning software running on RISC-V processors.
+The goals are to ensure there are no gaps in the ISA or in software, in order to support solutions that meet or exceed industry standards and expectations.  Where gaps are identified, task groups will be spawned and overseen by the SIG.
+As with all groups, the SIG will engage and interact with other appropriate committees and groups.
